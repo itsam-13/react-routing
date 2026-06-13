@@ -1,4 +1,4 @@
-# React Vibe
+# React Routing
 
 A modern React application built with routing capabilities, showcasing a responsive multi-page experience with clean navigation and product showcasing features.
 
